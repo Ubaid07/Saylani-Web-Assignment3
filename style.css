@@ -1,0 +1,180 @@
+*{
+margin: 0px;
+padding: 0px;
+
+}
+
+ul li
+{
+
+    list-style: none;
+}
+
+a{
+   text-decoration: none;
+
+}
+
+/* .topbar{
+
+    color: white;
+} */
+
+.head-buttons a{
+
+    padding: 2px;
+    border-radius: 0px;
+}
+.saylani-logo{
+
+    width: 250px;
+}
+.navbar ul li{
+    display: inline-block;
+    margin-left: 15px;
+margin-top: 8px;
+font-weight: 600;
+
+
+
+    
+}
+
+
+ .navbar ul li a{
+
+
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+    padding-top: 5px;
+    
+ }
+
+
+ .navbar  ul li a:hover{
+     background-color: #316dc3;
+     color: white; 
+     border-radius: 30px;
+     align-items: center;
+     padding-top: 5px;
+        
+ }
+ #navbarDropdownMenuLink:hover{
+    background-color: #316dc3;
+    color: white; 
+    border-radius: 30px;
+    align-items: center;
+    padding-top: 5px;
+
+ }
+ #nav-main:hover{
+    background-color: #316dc3;
+    color: white; 
+    border-radius: 30px;
+    align-items: center;
+    padding-top: 5px;
+ }
+ 
+ .dropdown:hover>.dropdown-menu {
+    display: block;
+  }
+ 
+  */
+.slider{
+
+    width: 100%;
+}
+.m-3{
+    background-color: blue;
+}
+.line{
+
+     color: white;
+    
+}
+.mar1{
+
+    height: 25px;
+}
+h2.intro-title{
+
+    text-align: center;
+    color: #316dc3;
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+}
+.separator{
+    align-items: center;
+   
+    width: 70px;
+    height: 3px;
+    background-color: green;
+    display: block;
+}
+h2.what-title{
+    text-align: center;
+    color: #316dc3;
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+
+
+}
+.hd{
+padding: 3px;
+border: solid 1px white;
+box-shadow: grey 4px 10px 20px;
+margin-left: 70px;
+text-align: center;
+}
+
+ .separator{
+     width: 70px;
+     height: 3px;
+     background-color: green;
+     display: block;
+ }
+ .projects marquee{
+
+    height: 200px;
+ }
+
+ .images1{
+    
+ }
+
+.gallery{
+
+
+     padding-: 1px;
+     margin: 15px;
+
+ }
+  .dropdown-content a{
+      width: 180px;
+      padding: 0;
+      margin: 0;
+      border-radius: 0px;
+     
+      position: absolute;
+      white-space: inherit;
+      font-size: 9pt;
+      position: relative;
+      display: block;
+     
+
+ }
+
+ ul.dropdown-menu li a:hover {
+    padding: 7px 25px 7px 22px;
+    position: relative;
+    font-weight: 600;
+    font-size: 9pt;
+    position: relative;
+      display: block;
+   
+    
+}
